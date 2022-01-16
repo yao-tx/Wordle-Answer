@@ -1,2 +1,3 @@
 # Wordle-Answer
-A small quick project on the popular Wordle game for hints and answers.
+
+A small and quick web app project based on the popular Wordle game. Get hints and answers for the word the day.
